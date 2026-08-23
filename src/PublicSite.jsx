@@ -2,14 +2,14 @@ import { useState, useEffect } from "react"
 import { Phone, MessageCircle, MapPin, X, Check, Star, Shield, Clock, Award, ChevronRight, Menu, Instagram, Facebook, Zap } from "lucide-react"
 
 const DEMO_BUSINESS = {
-  name: "Ahmed Car Rental",
-  tagline: "Premium Cars · Best Prices · Doha Qatar",
-  whatsapp: "+97450000000",
-  phone: "+97450000000",
+  name: "Car'e Car Rental",
+  tagline: "Easiest Way to Rent a Car in Doha",
+  whatsapp: "+97470469346",
+  phone: "+97470469346",
   location: "Doha, Qatar",
-  instagram: "",
+  instagram: "carsychatrist",
   facebook: "",
-  about: "We provide reliable, clean and affordable car rentals across Doha. With a modern fleet and friendly service, we make renting easy.",
+  about: "Car'e Car Rental makes renting a car in Doha simple, fast and affordable. Modern fleet, transparent pricing, and friendly service — we get you on the road in no time!",
 }
 
 const DEMO_CARS = [
